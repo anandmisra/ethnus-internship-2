@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Task5</title>
+    <link href="./CSS-T5style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="nav">
+        <a class="active" id="hmpg" href="https://anandmisra.github.io/ethnus-internship/">Home page</a>
+        <a id="mus" href="https://www.google.com/search?q=musings">Musings</a>
+        <a id="mytwn" href="https://en.wikipedia.org/wiki/Vadodara">My town</a>
+        <a id="lnks" href="https://www.linkedin.com/in/anandmisra11">Links</a>
+    </div>
+    <div id="content">
+        <h1>My first styled page</h1>
+        <p>Welcome to my styled page!</p>
+        <p>
+            It lacks images, but at least it has style. And it</br>
+            has links, even if they don't go anywhere...
+        </p>
+        <p>
+            There should be more here, but I don't know</br>
+            what yet.
+        </p>
+        <hr>
+        <p><i>
+            Made 5 April 2004</br>
+            by myself.
+        </p></i>
+    </div>
+</body>
+</html>

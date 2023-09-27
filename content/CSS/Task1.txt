@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Task1</title>
+    <link href="./CSS-T1style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <center>
+        <table id="tab1" cellpadding="1" cellspacing="2" bgcolor="lightblue">
+            <tr>
+                <th height="10" width="300">Firstname</th>
+                <th height="10" width="300">Lastname</th>
+                <th height="10" width="130">Age</th>
+            </tr>
+            <tr>
+                <td>Jill</td>
+                <td>Smith</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Eve</td>
+                <td>Jackson</td>
+                <td>94</td>
+            </tr>
+            <tr>
+                <td>John</td>
+                <td>Doe</td>
+                <td>80</td>
+            </tr>
+        </table>
+        </br>
+        <table id="tab2" cellspacing="10" >
+            <tr>
+                <td id="c1" height="30" width="50"></td>
+                <td id="c2" height="30" width="50"></td>
+                <td id="c3" height="30" width="50"></td>
+            </tr>
+            <tr>
+                <td id="c4" height="30" width="50"></td>
+                <td id="c5" height="30" width="50"></td>
+                <td id="c6" height="30" width="50"></td>
+            </tr>
+            <tr>
+                <td id="c7" height="30" width="50"></td>
+                <td id="c8" height="30" width="50"></td>
+                <td id="c9" height="30" width="50"></td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>

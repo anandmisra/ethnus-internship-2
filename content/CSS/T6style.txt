@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5% 25%;
+}
+.profileimg {
+    text-align: center;
+}
+img.ppic {
+    width: 38%;
+    border-radius: 50%;
+}
+
+input#f1 {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+label#l1{
+    font-weight: bold;
+}
+input#btn1 {
+    font-weight: 600;
+    background-color: #08ba58;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+input#btn2 {
+    font-weight: 600;
+    color: white;
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+}
+input#btn1:hover, input#btn2:hover {
+    background-color: black;
+    color: white;
+}
+.btm {
+    padding: 16px;
+}
+#nbtm {
+    padding: 16px;
+    border-top: 1px solid rgb(168, 168, 168);
+}
+a.frgt{
+    color: black;
+}
+span.frgt {
+    float: right;
+    padding-top: 10px;
+}

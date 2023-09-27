@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Task4</title>
+    <link href="./CSS-T4style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="sidebar">
+        <a id="Home" href="https://anandmisra.github.io/ethnus-internship/">Home</a>
+        <a id="Java" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>
+        <a id="HTML" href="https://en.wikipedia.org/wiki/HTML">HTML</a>
+        <a id="CSS" href="https://en.wikipedia.org/wiki/CSS">CSS</a>
+    </div>
+    <h2 style="margin-left:100px;">Hoverable Sidenav Buttons</h2>
+    <p style="margin-left:100px;">Hover over the buttons in the left side navigation to open them.</p>
+</body>
+</html>

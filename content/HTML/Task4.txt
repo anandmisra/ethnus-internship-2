@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML - Task4</title>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <td width="200"> 
+                    <label for="fn"> Full Name:</label> 
+                </td>
+                <td> 
+                    <input type="text" name="fn" size="18" placeholder="Enter your firstname" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="un"> Userame:</label> 
+                </td>
+                <td> 
+                    <input type="text" name="un" size="18" placeholder="Enter your username" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="pwd"> Password:</label> 
+                </td>
+                <td> 
+                    <input type="password" name="pwd" size="16" placeholder="Enter your password" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="rpwd"> Re Password:</label> 
+                </td>
+                <td> 
+                    <input type="password" name="rpwd" size="16" placeholder="Re-enter your password" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="add"> Address:</label> 
+                </td>
+                <td> 
+                    <input type="text" name="add" size="18" placeholder="Enter your address" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="age"> Age:</label> 
+                </td>
+                <td> 
+                    <input type="text" name="age" size="18" placeholder="Enter your age" /> 
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <label for="gdr"> Gender:</label> 
+                </td>
+                <td> 
+                    <select>
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select> 
+                </td>
+            </tr>
+        </table>
+        <input type="submit" value="Save"/>
+    </form>
+</body>
+</html>
