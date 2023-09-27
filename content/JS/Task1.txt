@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Task1</title>
+</head>
+
+<body>
+    <h1>Javascript function to reverse a number</h1>
+    <p>To re-run the function please refresh the page.</p>
+    <script src="./T1.js">
+    </script>
+</body>
+</html>
